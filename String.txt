@@ -1,0 +1,24 @@
+Strings
+*java string is a sequence of character they are objects of type string.
+*once a string object is created it can not be changed string class is immutable.
+*to get changable strings used the class called StringBuffer.
+*string and StringBuffer classes are declared final so there cannot be sub classes of these classes.
+
+*The default constructor creates an empty string eg. String s=new String();
+
+
+*String literals
+String S="Whatever u want to write"
+
+*using new keyword
+String s=new String("How are u?")
+
+*************************code****************************
+class MakeString
+{
+psvm(String arg[])
+{
+
+}
+
+}
